@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://www.ventus.ru/",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+8 495 234-39-16 ",
+      "contactType" : "customer support"
+    } ] 
+}
+</script>
