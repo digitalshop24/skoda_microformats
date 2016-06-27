@@ -1,23 +1,16 @@
-<script type="application/ld+json">
+<script type="application/ld+json"> 
 {
-  "@context": "http://schema.org",
-  "@type": "Person",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Seattle",
-    "addressRegion": "WA",
-    "postalCode": "98052",
-    "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
-  },
-  "colleague": [
-    "http://www.xyz.edu/students/alicejones.html",
-    "http://www.xyz.edu/students/bobsmith.html"
-  ],
-  "email": "mailto:jane-doe@xyz.edu",
-  "image": "janedoe.jpg",
-  "jobTitle": "Professor",
-  "name": "Jane Doe",
-  "telephone": "(425) 123-4567",
-  "url": "http://www.janedoe.com"
-}
+  "@context": "schema.org",   
+  "@type": "AutoDealer",   
+  "name": "Вентус",   
+  "address": 
+  {   
+    "addressLocality": "Москва",   
+    "@type": "PostalAddress",   
+    "streetAddress": "Мосфильмовская, 68"
+  },   
+  "url": " http://www.ventus.ru/",   
+  "telephone": "+7(495)234-39-13",
+  "email": "mailto:client@ventus.ru"
+}   
 </script>
