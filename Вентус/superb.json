@@ -162,7 +162,7 @@
               {
               "@type": "Offer",
               "priceCurrency": "RUB",
-              "price": "158200",
+              "price": "1582000",
               "itemCondition": "http://schema.org/UsedCondition",
               "availability": "http://schema.org/InStock",
               "seller": 
@@ -199,7 +199,7 @@
             {
             "@type": "Offer",
             "priceCurrency": "RUB",
-            "price": "163200",
+            "price": "1632000",
             "itemCondition": "http://schema.org/UsedCondition",
             "availability": "http://schema.org/InStock",
             "seller": 
@@ -236,7 +236,7 @@
              {
               "@type": "Offer",
               "priceCurrency": "RUB",
-              "price": "198500",
+              "price": "1985000",
               "itemCondition": "http://schema.org/UsedCondition",
               "availability": "http://schema.org/InStock",
               "seller": 
@@ -273,7 +273,7 @@
               {
                 "@type": "Offer",
                 "priceCurrency": "RUB",
-                "price": "217100",
+                "price": "2171000",
                 "itemCondition": "http://schema.org/UsedCondition",
                 "availability": "http://schema.org/InStock",
                 "seller": 
