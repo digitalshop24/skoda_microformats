@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://www.autoskd.ru/",
+  "contactPoint" : 
+  [
+    { "@type" : "ContactPoint",
+      "telephone" : "+8 495 256-32-05 ",
+      "contactType" : "customer support"
+    } 
+  ] 
+}
+</script>
