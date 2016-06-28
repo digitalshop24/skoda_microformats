@@ -1,0 +1,164 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+        {
+        "@type": "PostalAddress",
+        "addressLocality": "Москва",
+        "addressRegion": "Россия",
+        "postalCode":"109029",
+        "streetAddress": "Сибирский пр-д, 2, стр.43"
+      	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "ГК АвтоСпецЦентр",
+  	"telephone": "+7 (495) 135-18-75",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+          {
+          "@type": "GeoCoordinates",
+          "latitude": "55.7326881",
+          "longitude": "37.6829279"
+       		}, 			
+  	"sameAs" : 
+            [ "https://www.facebook.com/skodarussia",
+            "https://twitter.com/skodarussia"
+            ]
+	}
+</script>
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+          {
+          "@type": "PostalAddress",
+          "addressLocality": "Москва",
+          "addressRegion": "Россия",
+          "postalCode":"117630",
+          "streetAddress": "ул. Обручева, д. 23, стр.1"
+        	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "ГК АвтоСпецЦентр",
+  	"telephone": "+7 (495) 151-97-51",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+            {
+            "@type": "GeoCoordinates",
+            "latitude": "55.658518",
+            "longitude": "37.5275723"
+         		}, 			
+  	"sameAs" : 
+    [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"
+    ]
+	}
+</script>
+
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+        {
+        "@type": "PostalAddress",
+        "addressLocality": "Москва",
+        "addressRegion": "Россия",
+        "postalCode":"115409",
+        "streetAddress": "Каширское шоссе, д.45 "
+      	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "ГК АвтоСпецЦентр",
+  	"telephone": "+7 (495) 125-02-51",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+          {
+          "@type": "GeoCoordinates",
+          "latitude": "55.644309",
+          "longitude": "37.6742343"
+       		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
+
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+        {
+        "@type": "PostalAddress",
+        "addressLocality": "Москва",
+        "addressRegion": "Россия",
+        "postalCode":"117630",
+        "streetAddress": "ул. Обручева, д. 23, стр.1  "
+      	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "ГК АвтоСпецЦентр",
+  	"telephone": "+7 (495) 151-97-51",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+            {
+            "@type": "GeoCoordinates",
+            "latitude": "55.658518",
+            "longitude": "37.5275723"
+         		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
+
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+        {
+        "@type": "PostalAddress",
+        "addressLocality": "Москва",
+        "addressRegion": "Россия",
+        "postalCode":"109469",
+        "streetAddress": "ул. Марьинский парк, д.1  "
+      	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "ГК АвтоСпецЦентр",
+  	"telephone": "+7 (495) 151-99-84",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+              {
+              "@type": "GeoCoordinates",
+              "latitude": "55.654198",
+              "longitude": "37.7748963"
+           		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
+
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+          {
+          "@type": "PostalAddress",
+          "addressLocality": "Москва",
+          "addressRegion": "Россия",
+          "postalCode":"109469",
+          "streetAddress": "ул. Марьинский парк, д.1  "
+        	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "ГК АвтоСпецЦентр",
+  	"telephone": "+7 (495) 151-99-84",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+        {
+        "@type": "GeoCoordinates",
+        "latitude": "55.654198",
+        "longitude": "37.7748963"
+     		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
