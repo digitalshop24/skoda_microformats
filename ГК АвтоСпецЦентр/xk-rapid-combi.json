@@ -1,0 +1,29 @@
+//Для страницы http://www.autoskd.ru/cars/octavia_combi/
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.autoskd.ru/",
+        "name": "Главная"
+  	  }
+	  },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.autoskd.ru/cars/octavia_combi/",
+        "name": "Octavia"
+  	}
+	}
+  ]
+}
+</script>
