@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Москва",
+    "addressRegion": "Россия",
+    "postalCode":"125362",
+    "streetAddress": "Строительный проезд, 7А, корп. 11"
+  	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "Автосалон Атлант-М Тушино",
+  	"telephone": "+ 7 (495) 780-9-780",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "55.836773",
+    "longitude": "37.4258183"
+ 		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
