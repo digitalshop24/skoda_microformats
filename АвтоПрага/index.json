@@ -2,15 +2,40 @@
 {
 "@context": "schema.org",   
 "@type": "AutoDealer",   
-"name": "ГК АвтоСпецЦентр",   
-"address": 
-				{   
-				"addressLocality": "Москва",   
-				"@type": "PostalAddress",   
-				"streetAddress": "Строительный проезд, 7А, корп. 11"
-				},   
-"url": " http://www.atlant-motors.ru/",   
-"telephone": "+ 7 (495) 780-9-780",
-"email": "mailto:7809780@atlant-motors.ru"
-}   
+"name": "Автопрага Юг",   
+"address": {   
+"addressLocality": "Москва",   
+"@type": "PostalAddress",   
+"streetAddress": "Варшавское шоссе, 1-й Дорожный проезд, д. 4, стр 1"},   
+"url": " http://www.autopraga.ru/",   
+"telephone": "+7 (495) 308-91-27",
+"email": "mailto:clients@favorit-motors.ru "}   
+</script>
+
+<script type="application/ld+json"> 
+{
+"@context": "schema.org",   
+"@type": "AutoDealer",   
+"name": "Автопрага Северо-Запад",   
+"address": {   
+"addressLocality": "Москва",   
+"@type": "PostalAddress",   
+"streetAddress": "Ленинградское шоссе, ул. Коптевская, д.71"},   
+"url": " http://www.autopraga.ru/",   
+"telephone": "+7 (495) 308-91-27",
+"email": "mailto:clients@favorit-motors.ru "}   
+</script>
+
+<script type="application/ld+json"> 
+{
+"@context": "schema.org",   
+"@type": "AutoDealer",   
+"name": "Автопрага Восток",   
+"address": {   
+"addressLocality": "Москва",   
+"@type": "PostalAddress",   
+"streetAddress": "ул. Большая Семеновская, д. 42/2 стр 4"},   
+"url": " http://www.autopraga.ru/",   
+"telephone": "+7 (495) 308-91-27",
+"email": "mailto:clients@favorit-motors.ru "}   
 </script>
