@@ -1,0 +1,13 @@
+<script type="application/ld+json"> 
+{
+"@context": "schema.org",   
+"@type": "AutoDealer",   
+"name": "Атлант-М Тушино",   
+"address": {   
+"addressLocality": "Москва",   
+"@type": "PostalAddress",   
+"streetAddress": "Строительный проезд, 7А, корп. 11"},   
+"url": " http://www.atlant-motors.ru/",   
+"telephone": "+ 7 (495) 780-9-780",
+"email": "mailto:7809780@atlant-motors.ru"}   
+</script>
