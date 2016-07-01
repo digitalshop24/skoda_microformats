@@ -1,0 +1,226 @@
+//1.6 MPI  (110 л.с.) 4x2	
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Yeti 1.6 MPI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "5-ступ. МКПП / 110 HP",
+  "numberOfDoors": "5",
+  "width": "1793 кг",
+  "aggregateRating": 
+    {
+      "@type": "AggregateRating",       
+      "ratingValue": "5.0",
+      "reviewCount": "1520"
+    },
+  "cargoVolume": 
+       {                          
+      "@type": "QuantitativeValue",   
+        "maxValue": "1665",
+        "minValue": "322"
+       },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "6,9 l/100km"
+        },
+    "offers": 
+              {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "1049000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                      {
+                      "@type": "Organization",
+                      "name": "Автосалон Атлант-М Тушино"
+                      }
+              },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+}
+</script>
+
+//1.6 MPI  (110 л.с.) 4x2 АКПП	
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Yeti 1.6 MPI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. АКПП / 110 HP",
+  "numberOfDoors": "5",
+  "width": "1793 кг",
+  "aggregateRating": 
+      {
+        "@type": "AggregateRating",       
+        "ratingValue": "5.0",
+        "reviewCount": "1520"
+      },
+  "cargoVolume": 
+        {                          
+          "@type": "QuantitativeValue",   
+            "maxValue": "1665",
+            "minValue": "322"
+        },
+    "fuelConsumption": 
+              {                      
+              "@type": "QuantitativeValue",
+              "value": "7,1 l/100km"
+              },
+            "offers": 
+                    {
+                      "@type": "Offer",
+                      "priceCurrency": "RUB",
+                      "price": "1109000",
+                      "itemCondition": "http://schema.org/UsedCondition",
+                      "availability": "http://schema.org/InStock",
+                      "seller": 
+                              {
+                                  "@type": "Organization",
+                                  "name": "Автосалон Атлант-М Тушино"
+                              }
+                    },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "автоматическая",                                                
+    "brand": "SKODA"
+}
+</script>
+//1.4 TSI  (125 л.с.)  4x2
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Yeti 1.4 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. МКПП / 125 HP",
+  "numberOfDoors": "5",
+  "width": "1793 кг",
+  "aggregateRating": 
+            {
+              "@type": "AggregateRating",       
+              "ratingValue": "5.0",
+              "reviewCount": "1520"
+            },
+  "cargoVolume": 
+              {                          
+            "@type": "QuantitativeValue",   
+              "maxValue": "1665",
+              "minValue": "322"
+              },
+  "fuelConsumption": 
+      {                       
+      "@type": "QuantitativeValue",
+      "value": "5,8 l/100km"
+      },
+  "offers": 
+      {
+      "@type": "Offer",
+      "priceCurrency": "RUB",
+      "price": "1190000",
+      "itemCondition": "http://schema.org/UsedCondition",
+      "availability": "http://schema.org/InStock",
+      "seller": 
+            {
+              "@type": "Organization",
+              "name": "Автосалон Атлант-М Тушино"
+            }
+      },
+   "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+   "vehicleTransmission": "механическая",                                                
+   "brand": "SKODA"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Yeti 1.4 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "7-ступ. DSG / 125 HP",
+  "numberOfDoors": "5",
+  "width": "1793 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",       
+    "ratingValue": "5.0",
+    "reviewCount": "1520"
+  },
+  "cargoVolume": 
+      {                          
+        "@type": "QuantitativeValue",   
+          "maxValue": "1665",
+          "minValue": "322"
+      },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "5,8 l/100km"
+        },
+    "offers": 
+            {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "1230000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                          {
+                          "@type": "Organization",
+                          "name": "Автосалон Атлант-М Тушино"
+                          }
+            },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "роботизированная",                                               
+    "brand": "SKODA"
+ }
+</script>
+//1.8 TSI  (152 л.с.)  4x4
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Yeti 1.8 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. DSG 4х4/ 125 HP",
+  "numberOfDoors": "5",
+  "width": "1793 кг",
+  "aggregateRating": 
+    {
+      "@type": "AggregateRating",       
+      "ratingValue": "5.0",
+      "reviewCount": "1520"
+    },
+  "cargoVolume": 
+      {                          
+        "@type": "QuantitativeValue",   
+          "maxValue": "1665",
+          "minValue": "322"
+      },
+    "fuelConsumption": 
+          {                       
+          "@type": "QuantitativeValue",
+          "value": "8 l/100km"
+          },
+    "offers": 
+            {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "1366000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                      {
+                      "@type": "Organization",
+                      "name": "Автосалон Атлант-М Тушино"
+                      }
+            },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "роботизированная",                                                
+    "brand": "SKODA"
+}
+</script>
