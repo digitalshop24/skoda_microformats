@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://www.autopraga.ru/",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+7 (495) 308-91-27",
+      "contactType" : "customer support"
+    } ] 
+}
+</script>
