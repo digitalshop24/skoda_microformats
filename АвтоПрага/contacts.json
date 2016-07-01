@@ -1,0 +1,80 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Москва",
+            "addressRegion": "Россия",
+            "postalCode":"117545",
+            "streetAddress": "Варшавское шоссе, 1-й Дорожный проезд, д. 4, стр 1"
+          	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "Автопрага Юг",
+  	"telephone": "+7 (495) 308-91-27",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "55.613931",
+                  "longitude": "37.5471116"
+               		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Москва",
+            "addressRegion": "Россия",
+            "postalCode":"125239",
+            "streetAddress": "Ленинградское шоссе, ул. Коптевская, д.71"
+            },
+    "description": " Официальный дилер SKODA в Москве",
+    "name": "Автопрага Северо-Запад",
+    "telephone": "+7 (495) 308-91-27",
+    "openingHours": "Ежедневно 09:00-21:00",
+    "geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "55.831636",
+                  "longitude": "37.448427"
+                  },      
+    "sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+  }
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Москва",
+            "addressRegion": "Россия",
+            "postalCode":"105094",
+            "streetAddress": "ул. Большая Семеновская, д. 42/2, стр 4"
+            },
+    "description": " Официальный дилер SKODA в Москве",
+    "name": "Автопрага Восток",
+    "telephone": "+7 (495) 308-91-27",
+    "openingHours": "Ежедневно 09:00-21:00",
+    "geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "55.779999",
+                  "longitude": "37.7137603"
+                  },      
+    "sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+  }
+</script>
