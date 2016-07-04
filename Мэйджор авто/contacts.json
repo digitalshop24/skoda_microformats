@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Москва",
+            "addressRegion": "Россия",
+            "postalCode":"125363",
+            "streetAddress": "Цветочный проезд, д 6"
+          	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "Мэйджор Авто",
+  	"telephone": "+7 (495) 737-8998",
+  	"openingHours": "Ежедневно 08:00-22:00",
+  	"geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "55.841718",
+                  "longitude": "37.4330713"
+               		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
