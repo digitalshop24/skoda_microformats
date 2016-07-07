@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://www.skoda-wagner.ru/",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+7 (812) 331-7770",
+      "telephone" : "+7 (812) 323-1111",
+      "telephone" : "+7 (812) 331-7770",
+      "contactType" : "customer support"
+    } ] 
+}
+</script>
