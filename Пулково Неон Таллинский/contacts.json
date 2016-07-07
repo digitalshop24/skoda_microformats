@@ -1,0 +1,80 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Санкт-Петербург",
+            "addressRegion": "Россия",
+            "postalCode":"196210",
+            "streetAddress": "ул. Стартовая, д.5A"
+          	},
+  	"description": " Официальный дилер SKODA в Санкт-Петербурге",
+  	"name": "Автоцентр Пулково-Авто ",
+  	"telephone": "+7 (812) 331-7773",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "59.81053",
+                  "longitude": "30.31797"
+               		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+	}
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Санкт-Петербург",
+            "addressRegion": "Россия",
+            "postalCode":"197374",
+            "streetAddress": "ул. Оптиков, д.3А"
+            },
+    "description": " Официальный дилер SKODA в Санкт-Петербурге",
+    "name": "Автоцентр Неон-Авто",
+    "telephone": "+7 (812) 323-1111",
+    "openingHours": "Ежедневно 09:00-21:00",
+    "geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "59.99701",
+                  "longitude": "30.24904"
+                  },      
+    "sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+  }
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Санкт-Петербург",
+            "addressRegion": "Россия",
+            "postalCode":"198205",
+            "streetAddress": "Таллинское шоссе, д.157А"
+            },
+    "description": " Официальный дилер SKODA в Санкт-Петербурге",
+    "name": "Автоцентр ТАЛЛИНСКИЙ-АВТО",
+    "telephone": "+7 (812) 331-7770",
+    "openingHours": "Ежедневно 09:00-21:00",
+    "geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "59.806872",
+                  "longitude": "30.162896"
+                  },      
+    "sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://twitter.com/skodarussia"]
+  }
+</script>
