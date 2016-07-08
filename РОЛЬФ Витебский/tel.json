@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://www.skoda-vitebskiy.ru/",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+7 (812) 777-5555",
+      "contactType" : "customer support"
+    } ] 
+}
+</script>
