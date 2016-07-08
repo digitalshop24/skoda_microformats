@@ -1,0 +1,89 @@
+//<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia RS 2.0 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. DSG / 220 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",       
+    "ratingValue": "5.0",
+    "reviewCount": "1520"
+  },
+  "cargoVolume": 
+      {                         
+        "@type": "QuantitativeValue",   
+          "maxValue": "1558",
+          "minValue": "568"
+      },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "6,4 l/100km"
+        },
+    "offers": 
+            {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "2134000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                  {
+                    "@type": "Organization",
+                    "name": "Пулково-Авто Неон-Авто Таллинский-Авто"
+                  }
+            },
+    "fuelType": "неэтилированный бензин с октановым числом по исследовательскому методу не менее 95",  
+    "vehicleTransmission": "роботизированная",                                                
+    "brand": "SKODA"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia RS 2.0 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. МКПП / 220 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+    {
+      "@type": "AggregateRating",       
+      "ratingValue": "5.0",
+      "reviewCount": "1520"
+    },
+  "cargoVolume": 
+      {                          
+        "@type": "QuantitativeValue",   
+          "maxValue": "1558",
+          "minValue": "568"
+      },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "6,4 l/100km"
+        },
+    "offers": 
+            {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "2094000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                      {
+                        "@type": "Organization",
+                        "name": "Пулково-Авто Неон-Авто Таллинский-Авто"
+                      }
+            },
+    "fuelType": "неэтилированный бензин с октановым числом по исследовательскому методу не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+}
+</script>
