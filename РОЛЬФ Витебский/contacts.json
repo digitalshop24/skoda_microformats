@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Санкт-Петербург",
+            "addressRegion": "Россия",
+            "postalCode":"196105",
+            "streetAddress": "Витебский пр., д. 17, корп.6"
+          	},
+  	"description": " Официальный дилер SKODA в Санкт-Петербурге",
+  	"name": "РОЛЬФ Витебский",
+  	"telephone": "+7 (812) 777-5555",
+  	"openingHours": "Ежедневно 09:00-22:00",
+  	"geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "59.869342",
+                  "longitude": "30.3515303"
+               		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skoda.vitebskiy",
+    "https://twitter.com/SKODA_Vitebskiy"]
+	}
+</script>
