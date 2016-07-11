@@ -1,0 +1,289 @@
+//1.4 TSI/125 л.с.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 1.4 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. МКПП / 125 HP",
+    "aggregateRating": {
+    "@type": "AggregateRating",       
+    "ratingValue": "5.0",
+    "reviewCount": "1520"},
+     "fuelConsumption": {                      
+    "@type": "QuantitativeValue",
+    "value": "5,4 l/100km"},
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "RUB",
+      "price": "1294000",
+      "itemCondition": "http://schema.org/UsedCondition",
+      "availability": "http://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Европа Авто"}
+      },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+       }
+</script>
+//1.4 TSI/150 л.с. 
+<s<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 1.4 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. МКПП / 150 HP",
+  "aggregateRating": 
+      {
+      "@type": "AggregateRating",       
+      "ratingValue": "5.0",
+      "reviewCount": "1520"
+      },
+     "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "5,9 l/100km"
+        },
+    "offers": 
+            {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "1488000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                    {
+                      "@type": "Organization",
+                      "name": "Европа Авто"
+                    }
+            },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+}
+</script>
+//1.4 TSI АСТ/ 150 л.с.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 1.4 TSI ACT",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "7-ступ. DSG / 150 HP",
+  "aggregateRating": 
+      {
+      "@type": "AggregateRating",       
+      "ratingValue": "5.0",
+      "reviewCount": "1520"
+      },
+     "fuelConsumption": 
+         {                      
+        "@type": "QuantitativeValue",
+        "value": "5,0 l/100km"
+         },
+    "offers": 
+              {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "1378000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                      {
+                      "@type": "Organization",
+                      "name": "Европа Авто"
+                      }
+              },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "роботизированная",                                                
+    "brand": "SKODA"
+}
+</script>
+//1.4 TSI АСТ/ 150 л.с. 4x4
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 1.4 TSI 4х4 ACT",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. МКПП / 150 HP",
+    "aggregateRating": 
+        {
+        "@type": "AggregateRating",       
+        "ratingValue": "5.0",
+        "reviewCount": "1520"
+        },
+     "fuelConsumption": 
+          {                      
+          "@type": "QuantitativeValue",
+          "value": "5,6 l/100km"
+          },
+    "offers": 
+            {
+            "@type": "Offer",
+            "priceCurrency": "RUB",
+            "price": "2116000",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": 
+                  {
+                  "@type": "Organization",
+                  "name": "Европа Авто"
+                  }
+            },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+}
+</script>
+//1.8 TSI/180 л.с.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 1.8 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. МКПП / 180 HP",
+    "aggregateRating": 
+        {
+        "@type": "AggregateRating",       
+        "ratingValue": "5.0",
+        "reviewCount": "1520"
+        },
+     "fuelConsumption": 
+          {                      
+          "@type": "QuantitativeValue",
+          "value": "5,9 l/100km"
+          },
+    "offers": 
+              {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": "1647000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                    {
+                    "@type": "Organization",
+                    "name": "Европа Авто"
+                    }
+              },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 1.8 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "7-ступ. DSG/ 180 HP",
+  "aggregateRating": 
+      {
+      "@type": "AggregateRating",       
+      "ratingValue": "5.0",
+      "reviewCount": "1520"
+      },
+     "fuelConsumption": 
+          {                      
+          "@type": "QuantitativeValue",
+          "value": "5,8 l/100km"
+          },
+    "offers": 
+            {
+            "@type": "Offer",
+            "priceCurrency": "RUB",
+            "price": "1697000",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": 
+                    {
+                    "@type": "Organization",
+                    "name": "Европа Авто"
+                    }
+            },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "роботизированная",                                                
+    "brand": "SKODA"
+ }
+</script>
+//2.0 TSI/220 л.с.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 2.0 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. DSG/ 220 HP",
+  "aggregateRating": 
+        {
+        "@type": "AggregateRating",       
+        "ratingValue": "5.0",
+        "reviewCount": "1520"
+        },
+     "fuelConsumption": 
+          {                       
+          "@type": "QuantitativeValue",
+          "value": "6,2 l/100km"
+          },
+    "offers": 
+             {
+              "@type": "Offer",
+              "priceCurrency": "RUB",
+              "price": 2026000",
+              "itemCondition": "http://schema.org/UsedCondition",
+              "availability": "http://schema.org/InStock",
+              "seller": 
+                      {
+                      "@type": "Organization",
+                      "name": "Европа Авто"
+                      }
+              },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "роботизированная",                                                
+    "brand": "SKODA"
+}
+</script>
+//2.0 TSI/280 л.с.4x4
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Superb 2.0 TSI 4х4",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. DSG/ 280 HP",
+  "aggregateRating": 
+        {
+        "@type": "AggregateRating",       
+        "ratingValue": "5.0",
+        "reviewCount": "1520"
+        },
+     "fuelConsumption": 
+          {                       
+          "@type": "QuantitativeValue",
+          "value": "7,1 l/100km"
+          },
+    "offers": 
+              {
+                "@type": "Offer",
+                "priceCurrency": "RUB",
+                "price": "2234000",
+                "itemCondition": "http://schema.org/UsedCondition",
+                "availability": "http://schema.org/InStock",
+                "seller": 
+                        {
+                          "@type": "Organization",
+                          "name": "Европа Авто"
+                        }
+              },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "роботизированная",                                                
+    "brand": "SKODA"
+}
+</script>
