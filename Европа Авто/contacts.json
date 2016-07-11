@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Екатеринбург",
+            "addressRegion": "Россия",
+            "postalCode":"620017",
+            "streetAddress": "пр. Космонавтов, д. 6"
+          	},
+  	"description": " Официальный дилер SKODA в Екатеринбурге",
+  	"name": "Автосалон Европа Авто",
+  	"telephone": "+8 (343) 373-72-72",
+  	"openingHours": "Ежедневно 09:00-21:00",
+  	"geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "56.864227",
+                  "longitude": "60.6107323"
+               		}, 			
+  	"sameAs" : [ "https://www.facebook.com/EuropaAvto",
+    "https://new.vk.com/evropaavtoskoda"]
+	}
+</script>
