@@ -1,10 +1,10 @@
 <script type="application/ld+json">
 { "@context" : "http://schema.org",
   "@type" : "Organization",
-  "url" : "http://www.skoda-wagner.ru/",
+  "url" : "http://www.atlant-motors.ru/",
   "contactPoint" : [
     { "@type" : "ContactPoint",
-      "telephone" : "+7 (812) 331-7773",
+      "telephone" : "+ 7 (495) 780-9-780",
       "contactType" : "customer support"
     } ] 
 }
