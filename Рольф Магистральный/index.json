@@ -1,23 +1,13 @@
-<script type="application/ld+json">
+<script type="application/ld+json"> 
 {
-  "@context": "http://schema.org",
-  "@type": "Person",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Seattle",
-    "addressRegion": "WA",
-    "postalCode": "98052",
-    "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
-  },
-  "colleague": [
-    "http://www.xyz.edu/students/alicejones.html",
-    "http://www.xyz.edu/students/bobsmith.html"
-  ],
-  "email": "mailto:jane-doe@xyz.edu",
-  "image": "janedoe.jpg",
-  "jobTitle": "Professor",
-  "name": "Jane Doe",
-  "telephone": "(425) 123-4567",
-  "url": "http://www.janedoe.com"
-}
+"@context": "schema.org",   
+"@type": "AutoDealer",   
+"name": "РОЛЬФ Магистральный",   
+"address": {   
+"addressLocality": "Москва",   
+"@type": "PostalAddress",   
+"streetAddress": "м. Беговая 2-й Магистральный тупик, 5А"},   
+"url": " http://rolf-skoda.ru/",   
+"telephone": "+ 7 (495) 241-94-91",
+"email": "mailto:info@acm-auto.ru"}   
 </script>
