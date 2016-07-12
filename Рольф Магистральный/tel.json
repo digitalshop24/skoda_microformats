@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://rolf-skoda.ru/",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+7(495) 241-94-91",
+      "contactType" : "customer support"
+    } ] 
+}
+</script>
