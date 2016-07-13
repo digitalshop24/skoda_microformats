@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "LocalBusiness",
+  	"address": 
+            {
+            "@type": "PostalAddress",
+            "addressLocality": "Москва",
+            "addressRegion": "Россия",
+            "postalCode":"117042",
+            "streetAddress": "Чечерский пр-д, д.1"
+          	},
+  	"description": " Официальный дилер SKODA в Москве",
+  	"name": "АВТОРУСЬ БУТОВО",
+  	"telephone": "+7 (495) 717-24-24",
+  	"openingHours": "Ежедневно 08:00-21:00",
+  	"geo": 
+                  {
+                  "@type": "GeoCoordinates",
+                  "latitude": "55.54226",
+                  "longitude": "37.5440953"
+               		}, 			
+  	"sameAs" : [ "https://www.facebook.com/skodarussia",
+    "https://new.vk.com/skodarussia", "http://ok.ru/skodarussia"]
+	}
+</script>
