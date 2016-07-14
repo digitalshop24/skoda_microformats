@@ -1,0 +1,316 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia 1.6 MPI",
+  "productionDate": "2016",               
+  "vehicleConfiguration": "5-ступ. МКПП / 110 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",      
+    "ratingValue": "5.0",
+    "reviewCount": "1520"
+    },
+  "cargoVolume": 
+  {                         
+      "@type": "QuantitativeValue",   
+        "maxValue": "1558",
+        "minValue": "568"
+  },
+    "fuelConsumption": 
+    {                      
+      "@type": "QuantitativeValue",
+      "value": "6,4 l/100km"
+    },
+    "offers": 
+        {
+          "@type": "Offer",
+          "priceCurrency": "RUB",
+          "price": "887000",
+          "itemCondition": "http://schema.org/UsedCondition",
+          "availability": "http://schema.org/InStock",
+          "seller": 
+              {
+                "@type": "Organization",
+                "name": "Автоцентр ПЕЛИКАН-АВТО"
+              }
+        },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                               
+    "brand": "SKODA"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia 1.6 MPI",
+  "productionDate": "2016",               
+  "vehicleConfiguration": "6-ступ. АКПП / 110 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",       
+    "ratingValue": "5.0",
+    "reviewCount": "1520"
+    },
+  "cargoVolume": 
+    {                          
+      "@type": "QuantitativeValue",   
+        "maxValue": "1558",
+        "minValue": "568"
+    },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "6,7 l/100km"
+        },
+    "offers": 
+        {
+          "@type": "Offer",
+          "priceCurrency": "RUB",
+          "price": "947000",
+          "itemCondition": "http://schema.org/UsedCondition",
+          "availability": "http://schema.org/InStock",
+          "seller": 
+              {
+              "@type": "Organization",
+              "name": "Автоцентр ПЕЛИКАН-АВТО"
+              }
+        },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "автоматическая",                                                
+    "brand": "SKODA"
+       }
+</script>
+
+//1.4 TSI/150 л.с.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia 1.4 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "6-ступ. МКПП / 150 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",       
+    "ratingValue": "5.0",
+    "reviewCount": "1520"
+  },
+  "cargoVolume": 
+      {                          
+        "@type": "QuantitativeValue",   
+          "maxValue": "1558",
+          "minValue": "568"
+      },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "5,4 l/100km"
+        },
+    "offers": 
+          {
+            "@type": "Offer",
+            "priceCurrency": "RUB",
+            "price": "942000",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": 
+                  {
+                    "@type": "Organization",
+                    "name": "Автоцентр ПЕЛИКАН-АВТО"
+                  }
+          },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia 1.4 TSI",
+  "productionDate": "2016",                
+  "vehicleConfiguration": "7-ступ. DSG / 150 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",      
+    "ratingValue": "5.0",
+    "reviewCount": "1520"
+  },
+  "cargoVolume": 
+      {                          
+        "@type": "QuantitativeValue",   
+          "maxValue": "1558",
+          "minValue": "568"
+      },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "5,3 l/100km"
+        },
+    "offers": 
+          {
+            "@type": "Offer",
+            "priceCurrency": "RUB",
+            "price": "1133000",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": 
+                  {
+                    "@type": "Organization",
+                    "name": "Автоцентр ПЕЛИКАН-АВТО"
+                  }
+          },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "автоматическая",                                                
+    "brand": "SKODA"
+       }
+</script>
+
+//1.8 TSI/180 л.с.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia 1.8 TSI",
+  "productionDate": "2016",               
+  "vehicleConfiguration": "6-ступ. МКПП / 180 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",       
+    "ratingValue": "5.0",
+    "reviewCount": "1520"
+  },
+  "cargoVolume": 
+    {                         
+      "@type": "QuantitativeValue",   
+        "maxValue": "1558",
+        "minValue": "568"
+    },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "6,4 l/100km"
+        },
+    "offers": 
+          {
+            "@type": "Offer",
+            "priceCurrency": "RUB",
+            "price": "1175000",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": 
+                  {
+                    "@type": "Organization",
+                    "name": "Автоцентр ПЕЛИКАН-АВТО"
+                  }
+          },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "механическая",                                                
+    "brand": "SKODA"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia 1.8 TSI",
+  "productionDate": "2016",               
+  "vehicleConfiguration": "7-ступ. DSG / 180 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+  {
+    "@type": "AggregateRating",       
+    "ratingValue": "5.0",
+    "reviewCount": "1520"},
+  "cargoVolume": 
+      {                          
+        "@type": "QuantitativeValue",   
+          "maxValue": "1558",
+          "minValue": "568"
+      },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "6,1 l/100km"
+        },
+    "offers": 
+          {
+            "@type": "Offer",
+            "priceCurrency": "RUB",
+            "price": "1215000",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": 
+                  {
+                    "@type": "Organization",
+                    "name": "Автоцентр ПЕЛИКАН-АВТО"
+                  }
+          },
+    "fuelType": "неэтилированный бензин с октановым числом не менее 95",  
+    "vehicleTransmission": "автоматическая",                                                
+    "brand": "SKODA"
+}
+</script>
+
+//2.0 TDI CR/150 л.с.
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Vehicle",
+  "name": "Octavia 2.0 TDI CR",
+  "productionDate": "2016",               
+  "vehicleConfiguration": "6-ступ. DSG / 150 HP",
+  "numberOfDoors": "5",
+  "width": "1814 кг",
+  "aggregateRating": 
+    {
+      "@type": "AggregateRating",       
+      "ratingValue": "5.0",
+      "reviewCount": "1520"
+    },
+  "cargoVolume": 
+      {                         
+        "@type": "QuantitativeValue",   
+          "maxValue": "1558",
+          "minValue": "568"
+      },
+    "fuelConsumption": 
+        {                      
+        "@type": "QuantitativeValue",
+        "value": "4,9 l/100km"
+        },
+    "offers": 
+          {
+            "@type": "Offer",
+            "priceCurrency": "RUB",
+            "price": "1251000",
+            "itemCondition": "http://schema.org/UsedCondition",
+            "availability": "http://schema.org/InStock",
+            "seller": 
+                  {
+                    "@type": "Organization",
+                    "name": "Автоцентр ПЕЛИКАН-АВТО"
+                  }
+          },
+    "fuelType": "дизельное топливо",  
+    "vehicleTransmission": "автоматическая",                                                
+    "brand": "SKODA"
+}
+</script>
