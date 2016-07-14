@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://skoda-pelican.ru/",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+7 (495) 488-94-86",
+      "contactType" : "customer support"
+    } ] 
+}
+</script>
